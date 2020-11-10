@@ -3,33 +3,33 @@ const fs = require("fs");
 
 const generatereadme = (answers) =>
   `
-  ##${answers.title}
+  ## ${answers.title}
 
-  ##Description.
+  ## Description.
   ${answers.description}
 
-  ##Instructions.
+  ## Instructions.
   ${answers.instructions}
 
-  ##Usage
+  ## Usage
   ${answers.usage}
 
 
-  ##Contribution.
+  ## Contribution.
   ${answers.contribution}
 
 
-  ##Test.
+  ## Test.
   ${answers.test}
 
 
-  ##License.
+  ## License.
   ${answers.license}
 
-  ##Questions
+  ##Q uestions
   https://github.com/${answers.github}
 
-  ##Contact Me.
+  ## Contact Me.
   You can E-Mail me at ${answers.email}
 
 
