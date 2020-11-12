@@ -4,16 +4,24 @@ const fs = require("fs");
 const generatereadme = (answers) =>
   `
   ## ${answers.title}
+  "Node homework assigment"
+
+  ## Table of Contents.
+  - [Description](#Description)
+  - [Usage](#Usage)
+  - [Contribution](#Contribution)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
+   
 
   ## Description.
   ${answers.description}
 
-  ## Instructions.
+  ## Installation.
   ${answers.instructions}
 
   ## Usage
   ${answers.usage}
-
 
   ## Contribution.
   ${answers.contribution}
@@ -23,14 +31,11 @@ const generatereadme = (answers) =>
   ${answers.test}
 
 
-  ## License.
-  ${answers.license}
-
-  ## Q uestions
-  https://github.com/${answers.github}
-
-  ## Contact Me.
+  ## Questions
   You can E-Mail me at ${answers.email}
+
+  ## Visit my Portoflio
+  https://github.com/${answers.github}
 
 
   `;
