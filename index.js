@@ -40,6 +40,9 @@ const generatereadme = (answers) =>
   https://github.com/${answers.github}
 
 
+  ## Screenshot.
+  ![](Screen20%Shot20%2020-11-1120%at20%8.17.2620%PM.png)
+
   `;
 
 inquirer
