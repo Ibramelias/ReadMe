@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-const generatereadme = (answers) =>
+const generateReadme = (answers) =>
   `
   ## ${answers.title}
   | Your favorite application.
@@ -34,7 +34,8 @@ const generatereadme = (answers) =>
 
 
   ## Questions
-  You can E-Mail me at ${answers.email}
+  You can E-Mail me at
+   ${answers.email}
 
   ## Visit my Portoflio
   https://github.com/${answers.github}
@@ -97,7 +98,7 @@ inquirer
 
 
   .then((answers) => {
-    fs.writeFile("README.md", generatereadme(answers), (err) => {
+    fs.writeFile("README.md", generateReadme(answers), (err) => {
       if (err) {
         console.error(err);
       } else {
