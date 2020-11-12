@@ -4,13 +4,15 @@ const fs = require("fs");
 const generatereadme = (answers) =>
   `
   ## ${answers.title}
-  "Node homework assigment"
+  | Your favorite application.
 
   ## Table of Contents.
   - [Description](#Description)
+  - [Installation](#instructions)
   - [Usage](#Usage)
   - [Contribution](#Contribution)
   - [Tests](#Tests)
+  - [Portoflio](#Portoflio)
   - [Questions](#Questions)
    
 
