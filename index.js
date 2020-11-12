@@ -26,7 +26,7 @@ const generatereadme = (answers) =>
   ## License.
   ${answers.license}
 
-  ##Q uestions
+  ## Q uestions
   https://github.com/${answers.github}
 
   ## Contact Me.
