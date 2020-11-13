@@ -22,7 +22,12 @@
   Run the application
 
   ## Contribution.
-  Download the repository using the installation instructions above
+  
+  * Download the repository using the installation instructions above
+  * Contributors may not push to the main branch, create your own branch and perform a pull request.
+  * Pull request should outline main changes made and should not deconstruct the basic logic.
+  * Project is running on inquirer read the docs before you get started.
+
 
 
   ## Test.
