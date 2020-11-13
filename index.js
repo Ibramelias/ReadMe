@@ -42,7 +42,7 @@ const generateReadme = (answers) =>
 
 
   ## Screenshot.
-  ![](img/Screen20%Shot20%2020-11-1120%at20%8.17.2620%PM.png)
+  ![](img/Screen%20Shot%202020-11-11%20at%208.17.26%20PM.png)
 
   `;
 
