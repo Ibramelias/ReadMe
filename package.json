@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "license": "^1.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
