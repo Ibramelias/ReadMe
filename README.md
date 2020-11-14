@@ -1,5 +1,5 @@
 
-  ## ReadMe Generator
+  ## ReadMe Generator 
   | Your favorite application.
 
   ## Table of Contents.
@@ -7,7 +7,7 @@
   - [Installation](#instructions)
   - [Usage](#Usage)
   - [Contribution](#Contribution)
-  - [Tests](#Tests)
+  - [Test](#Test)
   - [Portoflio](#Portoflio)
   - [Questions](#Questions)
    
@@ -22,26 +22,22 @@
   Run the application
 
   ## Contribution.
-  
-  * Download the repository using the installation instructions above
-  * Contributors may not push to the main branch, create your own branch and perform a pull request.
-  * Pull request should outline main changes made and should not deconstruct the basic logic.
-  * Project is running on inquirer read the docs before you get started.
-
+  Download the repo.
 
 
   ## Test.
-  Contributors may not push to the main branch, create your own branch and perform a pull request.
+  
 
 
   ## Questions
-  You can E-Mail me at ibramdarwish@gmail.com
+  You can E-Mail me at
+   ibramdarwish@gmail.com
 
   ## Visit my Portoflio
   https://github.com/ibramelias
 
 
   ## Screenshot.
-  ![](img/Screen20%Shot20%2020-11-1120%at20%8.17.2620%PM.png)
+  ![](img/Screen%20Shot%202020-11-11%20at%208.17.26%20PM.png)
 
   
