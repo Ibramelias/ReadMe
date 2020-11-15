@@ -2,7 +2,7 @@
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## sad
+  ## ReadMe Generator 
   | Your favorite application.
 
   ## Table of Contents.
@@ -15,20 +15,22 @@
    
 
   ## Description.
-  
+  Readme is a generator application running node.js. This is a CLI application, which will prompt the users and then build readme file based on their inputs.
 
   ## Installation.
-  sdf
+  Clone the repo.
 
   ## Usage
-  s
+  Run the application  node index.js
 
   ## Contribution.
-  dsd
+  * Download the repo using the installation instructions. 
+  * Create your own branch and preform a pull request. 
+  * Project is running on Inquirer read the docs before you get started.
 
 
   ## Test.
-  as
+  This is a straight forward application to test. Run the test on file that is producing the funcationality in question.
 
 
   ## Questions
