@@ -11,7 +11,7 @@ const generateReadme = (answers) =>
 
   ## Table of Contents.
   - [Description](#Description)
-  - [Installation](#instructions)
+  - [Installation](#Installation.)
   - [Usage](#Usage)
   - [Contribution](#Contribution)
   - [Test](#Test)
@@ -37,11 +37,13 @@ const generateReadme = (answers) =>
 
   ## Questions
   [Shoot me an email](mailto:${answers.email})
-  
+
   [Visit my GitHub](https://github.com/${answers.github})
 
 
   ## Walkthrough of application & supporting images.
+  [Video walk through of application](https://drive.google.com/file/d/1otyoE9UoWYwTOftSmAsZyuMHmjuddwWK/view?usp=sharing)
+
   ![](img/Screen%20Shot%202020-11-11%20at%208.17.26%20PM.png)
 
   `;
@@ -61,7 +63,7 @@ inquirer
     {
       type: "input",
       name: "instructions",
-      message: "Enter project instructuion:",
+      message: "Enter project installation instructuion:",
     },
     {
       type: "input",
