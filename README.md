@@ -2,7 +2,7 @@
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## ReadMe Generator.
+  ## sdasd
   | Your favorite application.
 
   ## Table of Contents.
@@ -15,26 +15,24 @@
    
 
   ## Description.
-  ReadMe is a generator application running in node.js. This is CLI application, Which will prompt the users and then build readme file based on their inputs.
+  sd
 
   ## Installation.
-  Clone the repo.
+  asd
 
   ## Usage
-  Runt the application node index.js
+  aSD
 
   ## Contribution.
-  * Download the repo using installation instruction.
-  * Create your own branch and preform a pull request.
-  * Project is running an Inquirer, read the docs before you get start.
+  SAD
 
 
   ## Test.
-  This is  a straight forward application to test. Run the file is producing the functionality in question.
+  SAD
 
 
   ## Questions
-  [Shoot me an email](ibramdarwish@gmail.com)
+  [Shoot me an email](mailtoibramdarwish@gmail.com)
   [Visit my GitHub](https://github.com/ibramelias)
 
 
