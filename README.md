@@ -7,7 +7,7 @@
 
   ## Table of Contents.
   - [Description](#Description)
-  - [Installation](#instructions)
+  - [Installation](#installation)
   - [Usage](#Usage)
   - [Contribution](#Contribution)
   - [Test](#Test)
