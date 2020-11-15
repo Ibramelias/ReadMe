@@ -24,7 +24,9 @@
   Run the application node index.js
 
   ## Contribution.
-  Donwload the repo using installation instructions. Create your own branch and preform a pull request. Project is runnig an inquirer read the docs before you get start.
+  * Donwload the repo using installation instructions. 
+  * Create your own branch and preform a pull request. 
+  * Project is runnig an inquirer read the docs before you get start.
 
 
   ## Test.
