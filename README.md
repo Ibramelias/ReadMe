@@ -35,11 +35,11 @@
 
 
   ## Questions
-  You can E-Mail me at
-   ibramdarwish@gmail.com
+  [Shoot me an email](ibramdarwish@gmail.com)
+  
+  [Visit my Portoflio](https://github.com/ibramelias)
 
-  ## Visit my Portoflio
-  https://github.com/ibramelias
+  
 
 
   ## Screenshot.

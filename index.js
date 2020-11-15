@@ -38,8 +38,6 @@ const generateReadme = (answers) =>
 
   ## Questions
   [Shoot me an emial](${answers.email})
-  
-
   [Visit my GitHub](https://github.com/${answers.github})
 
 
