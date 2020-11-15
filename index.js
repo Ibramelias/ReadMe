@@ -3,6 +3,9 @@ const fs = require("fs");
 
 const generateReadme = (answers) =>
   `
+  ## License
+  ${answers.license}
+
   ## ${answers.title}
   | Your favorite application.
 
@@ -34,11 +37,10 @@ const generateReadme = (answers) =>
 
 
   ## Questions
-  You can E-Mail me at
-   ${answers.email}
+  [Shoot me an emial](${answers.email})
+  
 
-  ## Visit my Portoflio
-  https://github.com/${answers.github}
+  [Visit my GitHub](https://github.com/${answers.github})
 
 
   ## Screenshot.
