@@ -38,7 +38,7 @@
   [Visit my GitHub](https://github.com/ibramelias)
 
 
-  ## Screenshot.
+  ## Walkthrough of application & supporting images.
   ![](img/Screen%20Shot%202020-11-11%20at%208.17.26%20PM.png)
 
   
