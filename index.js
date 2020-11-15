@@ -22,7 +22,7 @@ const generateReadme = (answers) =>
   ${answers.description}
 
   ## Installation.
-  ${answers.instructions}
+  ${answers.installation}
 
   ## Usage
   ${answers.usage}
@@ -62,7 +62,7 @@ inquirer
     },
     {
       type: "input",
-      name: "instructions",
+      name: "installation",
       message: "Enter project installation instructuion:",
     },
     {
