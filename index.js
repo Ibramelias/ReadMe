@@ -15,7 +15,6 @@ const generateReadme = (answers) =>
   - [Usage](#Usage)
   - [Contribution](#Contribution)
   - [Test](#Test)
-  - [Portoflio](#Portoflio)
   - [Questions](#Questions)
    
 
