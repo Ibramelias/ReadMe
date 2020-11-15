@@ -1,6 +1,6 @@
 
   ## License
-  [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## ReadMe Generator
   | Your favorite application.
@@ -11,12 +11,11 @@
   - [Usage](#Usage)
   - [Contribution](#Contribution)
   - [Test](#Test)
-  - [Portoflio](#Portoflio)
   - [Questions](#Questions)
    
 
   ## Description.
-  ReadMe is generator application running in node.js. This is CLI application, Which will prompt the users and then build readme file based on thier inputs.
+  ReadMe is a generator application runnig in node.js. This is CLI application which will prompt the users and then build readme file based on thier inputs.
 
   ## Installation.
   Clone the repo.
@@ -25,21 +24,16 @@
   Run the application node index.js
 
   ## Contribution.
-  * Download the repo using installation instructions. 
-  * Create your own branch and preform a pull request. 
-  * Project is running an inquirer read the docs before you get start.
+  Donwload the repo using installation instructions. Create your own branch and preform a pull request. Project is runnig an inquirer read the docs before you get start.
 
 
   ## Test.
-  This is a straight forward application to test, run the test on the file that is producing the functionality in question 
+  This is a straight forward application to test, Run the test on the file that is producing the functionality in question.
 
 
   ## Questions
-  [Shoot me an email](ibramdarwish@gmail.com)
-  
-  [Visit my Portoflio](https://github.com/ibramelias)
-
-  
+  [Shoot me an emial](ibramdarwish@gmail.com)
+  [Visit my GitHub](https://github.com/ibramelias)
 
 
   ## Screenshot.
